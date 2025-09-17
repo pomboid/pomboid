@@ -3,7 +3,7 @@
 > “Access granted. Welcome to my repo.”  
 
 🛰️ Cyberspace explorer, future pentester, and tireless information security enthusiast.  
-Currently pursuing **Information Systems (2024–2027)** and building my arsenal of skills in **Red Team, infrastructure, and pentesting**.  
+Currently pursuing **Information Systems (2024–2028)** and building my arsenal of skills in **Red Team, infrastructure, and pentesting**.  
 
 ---
 
@@ -88,7 +88,6 @@ connection terminated.
 
 
 ```ansi
-[32m
 .______     ______   .___  ___. .______     ______    __   _______  
 |   _  \   /  __  \  |   \/   | |   _  \   /  __  \  |  | |       \ 
 |  |_)  | |  |  |  | |  \  /  | |  |_)  | |  |  |  | |  | |  .--.  |
@@ -96,6 +95,5 @@ connection terminated.
 |  |      |  `--'  | |  |  |  | |  |_)  | |  `--'  | |  | |  '--'  |
 | _|       \______/  |__|  |__| |______/   \______/  |__| |_______/ 
                                                                     
-[0m
 ```
 
