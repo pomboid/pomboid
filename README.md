@@ -289,7 +289,6 @@ Entry-level position in **Red Team**, **Penetration Testing**, or **Security Ope
 [*] Reach me at:
     LinkedIn: https://www.linkedin.com/in/vitorbenedettcaldas/
     GitHub: https://github.com/pomboid
-    Email: [your-email@example.com]
 ```
 
 ---
