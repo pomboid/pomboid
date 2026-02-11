@@ -49,7 +49,7 @@
 
 | Certification | Issuer | Year | Credential |
 |--------------|--------|------|------------|
-| 🔴 **Certified Threat Intelligence & Governance Analyst (CTIGA)** | Red Team Leaders | 2026 | [f59a3208ebf77821](https://credentials.redteamleaders.com) |
+| 🔴 **Certified Threat Intelligence & Governance Analyst (CTIGA)** | Red Team Leaders | 2026 | f59a3208ebf77821 |
 | 🦠 **Certified Ransomware Protection Officer (CRPO)** | ICTTF | 2025 | 694c9df866a6b00bd2012d78 |
 | 🎣 **Certified Phishing Prevention Specialist (CPPS)** | Hack & Fix | 2025 | 1495-2912-6150-4649 |
 
