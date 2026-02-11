@@ -233,7 +233,7 @@ Webster University - St. Louis, Missouri, USA
 
 🔴 **Active Objectives:**
 - [ ] Complete CEH v13 AI certification (EC-Council)
-- [ ] Execute 10 practical pentest projects (Pentest Experience V2)
+- [ ] Execute 10 practical pentest projects and DCPT exam
 - [ ] Build public portfolio with CTF write-ups & vulnerability research
 - [ ] Contribute to open-source security tools
 - [ ] Network with cybersecurity professionals globally
