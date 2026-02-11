@@ -49,16 +49,17 @@
 
 | Certification | Issuer | Year | Credential |
 |--------------|--------|------|------------|
-| 🔴 **Certified Threat Intelligence & Governance Analyst (CTIGA)** | Red Team Leaders | 2026 | f59a3208ebf77821 |
+| 🔴 **Certified Threat Intelligence & Governance Analyst (CTIGA)** | Red Team Leaders | 2026 | [f59a3208ebf77821](https://credentials.redteamleaders.com) |
 | 🦠 **Certified Ransomware Protection Officer (CRPO)** | ICTTF | 2025 | 694c9df866a6b00bd2012d78 |
 | 🎣 **Certified Phishing Prevention Specialist (CPPS)** | Hack & Fix | 2025 | 1495-2912-6150-4649 |
+| ⚔️ **Desec Security - Professional Pentester** | Desec Security | 2026 | [5/5 Achievements] |
 
 ### 📚 In Progress
 
 | Certification | Status | ETA |
 |--------------|--------|-----|
 | **CEH v13 AI** (EC-Council) | ![Progress](https://progress-bar.dev/40/?title=Progress&width=200) | Q2 2026 |
-| **DCPT** (Desec) | ![Progress](https://progress-bar.dev/0/?title=Queued&width=200&color=yellow) | Q2 2026 |
+| **Pentest Experience V2** (Desec) | ![Progress](https://progress-bar.dev/0/?title=Queued&width=200&color=yellow) | Q2 2026 |
 
 </div>
 
@@ -143,6 +144,16 @@ class Pentester:
 - **Optimization:** zram-tools for memory compression
 
 **Learnings:** Infrastructure as Code, Service orchestration, Network security, Self-hosting best practices
+
+---
+
+### 🎙️ [Text-to-Audio Converter](https://github.com/pomboid/Conversor-de-Arquivo-de-Texto-Para-Audio)
+> Simple but effective Python tool to convert text files into audio using Google Text-to-Speech (gTTS).
+
+**Tech Stack:** Python, gTTS, tkinter  
+**Features:** GUI interface, Multi-format support (.txt, .pdf, .docx), Batch processing, MP3 output
+
+**Use Cases:** Accessibility tools, Audiobook creation, Study aids for visual learners
 
 ---
 
@@ -289,6 +300,7 @@ Entry-level position in **Red Team**, **Penetration Testing**, or **Security Ope
 [*] Reach me at:
     LinkedIn: https://www.linkedin.com/in/vitorbenedettcaldas/
     GitHub: https://github.com/pomboid
+    Email: [your-email@example.com]
 ```
 
 ---
