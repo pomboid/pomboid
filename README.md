@@ -9,7 +9,7 @@
 
 <div align="center">
 
-# 🎯 Red Team | Junior Pentester | Infrastructure
+# 🎯 Red Team | Mid-Level Pentester | Infrastructure
 
 > "The quieter you become, the more you can hear." — Ram Dass
 
