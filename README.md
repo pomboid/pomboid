@@ -31,7 +31,7 @@
 
 [+] Name: Vitor Benedett Caldas
 [+] Role: Red Team Operator | Junior Pentester | Infrastructure Analyst
-[+] Education: Information Systems @ Unochapecó (2024-2028)
+[+] Education: Information Systems @ Unochapecó (2024-2027)
 [+] Exchange: Computer Science @ Webster University - USA (2024)
 [+] Location: Santa Catarina, Brasil 🇧🇷
 [+] Languages: Portuguese (Native) | English (Advanced C1) | Spanish (Basic)
